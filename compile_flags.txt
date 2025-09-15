@@ -1,0 +1,4 @@
+-Ideps
+-pthread
+-D_GNU_SOURCE
+-DSOKOL_GLCORE
